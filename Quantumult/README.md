@@ -6,8 +6,8 @@
 
 | 类别 | 配置 |
 | :------------: | :------------: |
-| 出国版 | [Outbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Outbound.conf) |
-| 回国版 | [Inbound](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Inbound.conf) |
+| 出国版 | [Outbound](https://raw.githubusercontent.com/qiang1688/Profiles/master/Quantumult/Outbound.conf) |
+| 回国版 | [Inbound](https://raw.githubusercontent.com/qiang1688/Profiles/master/Quantumult/Inbound.conf) |
 
 ## 说明
 
